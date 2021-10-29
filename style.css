@@ -1,0 +1,13 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.banner{
+    background: url("jumbotron.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
